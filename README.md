@@ -1,2 +1,3 @@
 # chess
-chessboard
+chessboard js
+
